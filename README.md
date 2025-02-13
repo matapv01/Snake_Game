@@ -17,6 +17,6 @@
 2. **Run the Executable:**
    - Alternatively, you can play the game by directly running the `dist/main.exe` file if you are on Windows.
 
-Enjoy playing the game!
+Enjoy playing the game ❤️
 
 ---
